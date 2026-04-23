@@ -1,5 +1,4 @@
 # Adaptive-Threat-Detection-in-Smart-Healthcare-Infrastructure-with-Agentic-AI-using-RL
-# 🧠 Adaptive Threat Detection in Smart Healthcare Infrastructure using Agentic AI & Reinforcement Learning
 
 ## 📌 Overview
 This project presents an intelligent cybersecurity framework for smart healthcare systems using Agentic AI and Reinforcement Learning (RL). The system is designed to detect, analyze, and respond to cyber threats in real-time by leveraging autonomous AI agents that continuously learn and adapt to dynamic environments.
